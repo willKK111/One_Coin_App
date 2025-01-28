@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "870917407474",
+    "firebase_url": "https://projeto-3-one-coin-default-rtdb.firebaseio.com",
+    "project_id": "projeto-3-one-coin",
+    "storage_bucket": "projeto-3-one-coin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870917407474:android:e7e6a13f4161f31a8a866b",
+        "android_client_info": {
+          "package_name": "com.example.testes_3unidade"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPZYBy0A7I45z6wF6xNpD9Qkob4BEme-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
