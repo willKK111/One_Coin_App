@@ -1,6 +1,6 @@
-# testes_3unidade
+# Aplicativo One Coin
 
-A new Flutter project.
+Projeto feito na linguagem Dart e com o framework Flutter
 
 ## Getting Started
 
